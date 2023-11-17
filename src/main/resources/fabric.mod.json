@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "maxhealthfixfixfix",
+	"version": "${version}",
+	"name": "MaxHealthFixFixFix",
+	"description": "The max health fix mod to put the max health in your fix fix fix",
+	"authors": [
+		"unilock"
+	],
+	"contact": {
+		"sources": "https://github.com/unilock/MaxHealthFixFixFix"
+	},
+	"license": "LGPL-3.0-only",
+	"environment": "*",
+	"mixins": [
+		"maxhealthfixfixfix.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": ">=1.19.2"
+	}
+}
